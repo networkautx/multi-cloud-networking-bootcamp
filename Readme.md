@@ -1,72 +1,61 @@
+# 🚀 Multi-Cloud Networking Bootcamp
+
 A practical multi-cloud networking bootcamp designed for traditional network engineers transitioning into AWS, Azure, and GCP.
 
-🎯 Who This Is For
+---
 
-CCNA / CCNP engineers
+## 🎯 Who This Is For
 
-Data center networking professionals
+- CCNA / CCNP engineers  
+- Data center networking professionals  
+- Firewall & VPN engineers  
+- Engineers moving from on-prem to cloud  
 
-Firewall & VPN engineers
+---
 
-Engineers moving from on-prem to cloud
+## 📚 Course Modules
 
-📚 Course Modules
-Week 1 – AWS Networking
+### Week 1 – AWS Networking
 
-VPC architecture
+- VPC architecture  
+- Route tables  
+- VPN design  
+- Hybrid connectivity  
 
-Route tables
+### Week 2 – Azure Networking
 
-VPN design
+- VNet & Subnets  
+- NSG & UDR  
+- VPN Gateway  
 
-Hybrid connectivity
+### Week 3 – GCP Networking
 
-Week 2 – Azure Networking
+- Global VPC  
+- Cloud Router (BGP)  
+- HA VPN  
 
-VNet & Subnets
+### Week 4 – Multi-Cloud Design
 
-NSG & UDR
+- AWS ↔ Azure VPN  
+- BGP routing flow  
+- Failover design  
+- Capstone project  
 
-VPN Gateway
+---
 
-Week 3 – GCP Networking
-
-Global VPC
-
-Cloud Router (BGP)
-
-HA VPN
-
-Week 4 – Multi-Cloud Design
-
-AWS ↔ Azure VPN
-
-BGP routing flow
-
-Failover design
-
-Capstone project
-
-🧠 What Makes This Different
+## 🧠 What Makes This Different
 
 This course focuses on:
 
-Control plane understanding
+- Control plane understanding  
+- Routing flow analysis  
+- Hybrid cloud design  
+- Real-world troubleshooting  
 
-Routing flow analysis
+---
 
-Hybrid cloud design
-
-Real-world troubleshooting
-
-🔥 Hands-On Focus
+## 🔥 Hands-On Focus
 
 All modules include:
 
-Step-by-step labs
-
-Topology diagrams
-
-Routing breakdowns
-
-Failure scenario simulations
+- Step-by-step lab
