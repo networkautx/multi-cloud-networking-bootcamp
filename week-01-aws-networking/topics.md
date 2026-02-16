@@ -57,4 +57,6 @@ g. Review and Launch
 
 ## NAT Gateway and NAT Instance
 
+## NAT Gateway with High Availability
+
 
