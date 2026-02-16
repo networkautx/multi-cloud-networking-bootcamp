@@ -55,6 +55,8 @@ g. Review and Launch
 
 ## Demo -VPC with Public and Private Subnet & exersie 
 
+## Setup your own NAT on EC2 (NAT Instance)
+
 ## NAT Gateway and NAT Instance
 
 ## NAT Gateway with High Availability
