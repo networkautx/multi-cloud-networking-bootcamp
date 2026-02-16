@@ -1,7 +1,7 @@
-VPC Building blocks
-avalabilty zones
-sites
-VPC building blocks:
+## VPC Building blocks
+## avalabilty zones
+## sites
+## VPC building blocks:
  - vpc cidr
  - subnets
  - route tables
@@ -11,13 +11,13 @@ VPC building blocks:
  - Elastic ip
  - ipv6 address
 
-Firewall inside VPC
-Secuirty Groups and deeper dives
-NACL vs SG
-Default VPC
+## Firewall inside VPC
+## Secuirty Groups and deeper dives
+## NACL vs SG
+## Default VPC
 
 
-Demo 
+## Demo 
 
 Exercise 1
 1. Delete default VPC (We will create our own VPC)
@@ -53,8 +53,8 @@ i. Add rule for SSH port 22 for source as MyIP
 g. Review and Launch
 8. Connect to EC2 instance (Public IP) from your desktop/laptop using Putty or terminal (ec2-user)
 
-Demo -VPC with Public and Private Subnet & exersie 
+## Demo -VPC with Public and Private Subnet & exersie 
 
-NAT Gateway and NAT Instance
+## NAT Gateway and NAT Instance
 
 
