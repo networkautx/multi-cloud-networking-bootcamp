@@ -1,5 +1,5 @@
 ## VPC Building blocks
-## avalabilty zones
+## avalabilty zone
 ## sites
 ## VPC building blocks:
  - vpc cidr
